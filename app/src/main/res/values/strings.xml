@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Iniciar Sesión</string>
+    <string name="dont_have_account">¿No tienes cuenta?,  </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="hint_name_createaccount">Nombre</string>
+    <string name="hint_username_createaccount">Usuario</string>
+    <string name="text_button_createaccount">Unete</string>
+    <string name="tittle_create_accout">Crear cuenta</string>
+</resources>
