@@ -12,4 +12,8 @@
     <string name="hint_username_createaccount">Usuario</string>
     <string name="text_button_createaccount">Unete</string>
     <string name="tittle_create_accout">Crear cuenta</string>
+    <string name="username_card">Diego Marquina</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumber_card">10 Me gusta</string>
 </resources>
