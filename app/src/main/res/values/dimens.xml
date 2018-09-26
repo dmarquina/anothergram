@@ -10,4 +10,7 @@
     <dimen name="line_margintop_card">10dp</dimen>
     <dimen name="likenumber_card">10dp</dimen>
     <dimen name="height_bottombar">70dp</dimen>
+    <dimen name="activity_horizontal_paddind">16dp</dimen>
+    <dimen name="activity_vertical_padding">16dp</dimen>
+    <dimen name="bottombar_paddingBottom">70dp</dimen>
 </resources>

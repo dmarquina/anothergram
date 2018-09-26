@@ -12,10 +12,10 @@ import com.dmarquina.platzigram.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class ProfilekFragment extends Fragment {
+public class ProfileFragment extends Fragment {
 
 
-    public ProfilekFragment() {
+    public ProfileFragment() {
         // Required empty public constructor
     }
 
